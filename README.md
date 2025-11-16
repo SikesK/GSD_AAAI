@@ -1,4 +1,4 @@
-# 🤖 Goal State Divergence 
+# 🤖 Reducing Goal State Divergence with Environment Design
 Issues can arise when a human’s expectations differ from a robot’s current state/capabilities. To avoid this, we introduce Goal State Divergence (GSD), a novel metric which quantifies the difference between the final goal state achieved by a robot and the one a human user expected. 
 
 We approximate this metric using a maximal and minimal bound, and identify a minimal set of environment modifications that can reduce such mismatches (better aligning the human-robot final goal states). 
